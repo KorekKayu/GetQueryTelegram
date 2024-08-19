@@ -53,3 +53,6 @@ Acknowledgments
 Thanks to Galkurta for developing this automation script.
 Inspired by the need to automate interactions with Telegram bots for query retrieval.
 This README file provides an overview of the project, instructions for setup and usage, and guidance on how to customize the bot username and URL within the script.
+
+
+Thanks to https://github.com/Galkurta/GetQuery
